@@ -13,6 +13,8 @@ Inspired in part from this HM question, https://news.ycombinator.com/item?id=138
 + https://tenderlovemaking.com/
 + http://articles.coreyhaines.com/
 + https://blog.pusher.com/
++ https://where.coraline.codes/blog/
++ https://eileencodes.com/
 
 # Aggregators
 + https://blog.acolyer.org/
