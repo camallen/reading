@@ -19,7 +19,10 @@ Some links<sup>1</sup> that might prove useful for folks getting started on thei
 #### Community sites
 + https://www.codenewbie.org/
 + https://adventofcode.com/
-
++ https://codebar.io/
++ https://djangogirls.org/
++ https://codeclub.org/en/
+ 
 #### Nice reads about getting started in development 
 + http://blog.thefirehoseproject.com/posts/the-biggest-mistake-beginners-make-when-learning-to-code/
 + https://gds.blog.gov.uk/2016/05/25/its-ok-to-say-whats-ok/
