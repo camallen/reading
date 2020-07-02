@@ -4,6 +4,7 @@ Reading links in no particular order. Happy to accept additions via issues / PR 
 Inspired in part from this HM question, https://news.ycombinator.com/item?id=13849430
 
 # Blogs
++ https://jvns.ca/
 + https://charity.wtf/
 + https://www.happybearsoftware.com/
 + https://johnnunemaker.com/
