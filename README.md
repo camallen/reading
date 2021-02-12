@@ -16,6 +16,7 @@ Inspired in part from this HM question, https://news.ycombinator.com/item?id=138
 + https://blog.pusher.com/
 + https://where.coraline.codes/blog/
 + https://eileencodes.com/
++ https://simonwillison.net/
 
 # Aggregators
 + https://blog.acolyer.org/
